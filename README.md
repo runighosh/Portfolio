@@ -5,3 +5,5 @@
 
 TSome more text
 
+
+Adding a link [Link Text](./docs/somefile.txt)
