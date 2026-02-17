@@ -10,6 +10,6 @@ Adding a link [Link Text](./docs/somefile.txt)
 
 
 
-git add
-git commit -m "mesg"
-git push
+git add <br/>
+git commit -m "mesg" <br/>
+git push  <br/>
