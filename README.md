@@ -7,3 +7,9 @@ TSome more text
 
 
 Adding a link [Link Text](./docs/somefile.txt)
+
+
+
+git add
+git commit -m "mesg"
+git push
