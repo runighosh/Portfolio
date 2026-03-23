@@ -10,7 +10,7 @@ Papers I've done -
 A study on BB84 and E91 protocols applied to secure satellite-based IoT communication.
 [Read Full Paper](https://github.com/runighosh/Portfolio/blob/617800e4b66274c6c78f6c8462d807c8729c68a6/Research_Papers/Quantum%20Cryptography%20for%20IoT%20Security%20in%20Aerospace%20and%20Satellite%20IoT.pdf)
 
-### 2. 
+2. [Indian Sign Language Recognition System using OpenCV and TensorFlow](https://github.com/runighosh/Portfolio/blob/edbe2232657027e9d1b75c46e7f11c946d80d424/Research_Papers/Indian%20Sign%20Language%20Recognition%20System%20using%20OpenCV%20and%20TensorFlow_Published%20Paper.pdf)
 
 
 
