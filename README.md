@@ -6,7 +6,7 @@ This GitHub is where I document my projects, experiments, and coursework. I enjo
 
 Papers I've done - 
 
-1. [Quantum Cryptography for IoT Security in Aerospace and Satellite IoT] (https://github.com/runighosh/Portfolio/blob/617800e4b66274c6c78f6c8462d807c8729c68a6/Research_Papers/Quantum%20Cryptography%20for%20IoT%20Security%20in%20Aerospace%20and%20Satellite%20IoT.pdf)
+1. [Quantum Cryptography for IoT Security in Aerospace and Satellite IoT](https://github.com/runighosh/Portfolio/blob/617800e4b66274c6c78f6c8462d807c8729c68a6/Research_Papers/Quantum%20Cryptography%20for%20IoT%20Security%20in%20Aerospace%20and%20Satellite%20IoT.pdf)
 
 
 
