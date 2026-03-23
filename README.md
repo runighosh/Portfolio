@@ -16,7 +16,7 @@ Design of a Sign Language Recognition System based on computer vision and machin
 Comparative study of Random Forest, Support Vector Machine (SVM), Logistic Regression, XGBoost, and K-Nearest Neighbors (KNN) for heart disease prediction on a clinical dataset.
 
 ### 4. [Language Translation using Neural Networks](https://github.com/runighosh/Portfolio/blob/edbe2232657027e9d1b75c46e7f11c946d80d424/Research_Papers/Language%20Translation%20using%20Neural%20Networks.pdf)
-A real-time multilingual translation app with the MarianMT model allowing several language pairs with an auto language detection feature. The architecture includes Flask-based deployment and model caching, supports real-time and high throughput machine translation.
+A real-time multilingual translation app with the MarianMT model allowing several language pairs with an auto language detection feature.
 
 ### 5. [Concealed Communication: Investigating Techniques and Algorithms Across Image, Video and Text Steganography](https://github.com/runighosh/Portfolio/blob/edbe2232657027e9d1b75c46e7f11c946d80d424/Research_Papers/Concealed%20Communication%20-%20Investigating%20Techniques%20and%20Algorithms%20Across%20Image%2C%20Video%2C%20and%20Text%20Steganography.pdf)
 Study of steganographic techniques (LSB, DWT, DCT, SVD) for securing digital media, with applications across text, image, and video data.
