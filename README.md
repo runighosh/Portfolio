@@ -13,7 +13,7 @@ A study on BB84 and E91 protocols applied to secure satellite-based IoT communic
 Design of a Sign Language Recognition System based on computer vision and machine learning techniques for converting gestures to text or speech. [Paper](https://github.com/runighosh/Portfolio/blob/edbe2232657027e9d1b75c46e7f11c946d80d424/Research_Papers/Indian%20Sign%20Language%20Recognition%20System%20using%20OpenCV%20and%20TensorFlow_Published%20Paper.pdf)
 
 ### 3. Review on Heart Disease Prediction Using Machine Learning Approaches
-Comparative study of Random Forest, Support Vector Machine (SVM), Logistic Regression, XGBoost, and K-Nearest Neighbors (KNN) for heart disease prediction on a clinical dataset.[Paper](https://github.com/runighosh/Portfolio/blob/edbe2232657027e9d1b75c46e7f11c946d80d424/Research_Papers/Review%20on%20Heart%20Disease%20Prediction%20Using%20Machine%20Learning%20Approaches_Published%20Paper.pdf)
+Comparative study of Random Forest, Support Vector Machine (SVM), Logistic Regression, XGBoost, and K-Nearest Neighbors (KNN) for heart disease prediction on a clinical dataset. [Paper](https://github.com/runighosh/Portfolio/blob/edbe2232657027e9d1b75c46e7f11c946d80d424/Research_Papers/Review%20on%20Heart%20Disease%20Prediction%20Using%20Machine%20Learning%20Approaches_Published%20Paper.pdf)
 
 ### 4. Language Translation using Neural Networks
 A real-time multilingual translation app with the MarianMT model allowing several language pairs with an auto language detection feature. [Paper](https://github.com/runighosh/Portfolio/blob/edbe2232657027e9d1b75c46e7f11c946d80d424/Research_Papers/Language%20Translation%20using%20Neural%20Networks.pdf)
